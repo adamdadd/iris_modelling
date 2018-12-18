@@ -3,10 +3,10 @@ Machine learning models of the iris dataset, determining the best model.
 
 The following matrix scatter displays the dataset tobe modelled:
 
-![https://github.com/adamdadd/iris_modelling/plots/iris_matrix.png](https://github.com/adamdadd/iris_modelling/plots/iris_matrix.png)
+![iris_matrix.png](https://github.com/adamdadd/iris_modelling/blob/master/plots/iris_matrix.png)
 
 Results:
 
-![https://github.com/adamdadd/iris_modelling/plots/iris_matrix.png](https://github.com/adamdadd/iris_modelling/plots/AlComp.png)
+![AlComp.png](https://github.com/adamdadd/iris_modelling/blob/master/plots/AlComp.png)
 
 KNN gives the largest estimated accuracy score.
